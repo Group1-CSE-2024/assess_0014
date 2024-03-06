@@ -1,2 +1,393 @@
 hii
 new line
+    1  help
+    2  git --version
+    3  ls
+    4  git log --online
+    5  git log
+    6  echo
+    7  ls
+    8  cd agamscm
+    9  echon"firstfile"
+   10  cd agamscm
+   11  agamscm
+   12  ls
+   13  ls
+   14  cd agamscm
+   15  cd agamscm
+   16  echo "first file"
+   17  echo "first file ">>first file
+   18  git init
+   19  git add first file
+   20  clear
+   21  echo "firstfile"
+   22  echo "firstfile">> "firstfile"
+   23  git init
+   24  git add firstfile
+   25  git commit -m"agam monga"
+   26  gitc config --global user.name "agam monga"
+   27  git config --global user.name "agam  monga"
+   28  git config --global user.email"agam0014.be23@chitkara.edu.in"
+   29  git commit -m"agam monga"
+   30  git add .
+   31  git commit -m "bhai"
+   32  git config --global user.name "Agam monga"
+   33  git config --global user.email "agammonga3@gmail.com"
+   34  git commit -m "test case"
+   35  git log
+   36  git confg --hat
+   37  gti  randle
+   38  git push -u origin matser
+   39  git push
+   40  git log
+   41  git status
+   42  git init
+   43  sudo yum install gcc
+   44  git config --global user.email "agammonga3@gmail.com"
+   45  git config --global user.name "aGaM"
+   46  git config --global user.email
+   47  git config --global user .name
+   48  git config --global user.name
+   49  whoami
+   50  git --version
+   51  git version
+   52  date
+   53  cat>sample1
+   54  cat sample1
+   55  cat>sample2
+   56  cat sample
+   57  cat sample2
+   58  ls
+   59  cat sample1 sample2> sample
+   60  cat sample
+   61  rm sample
+   62  ls
+   63  ls sample
+   64  ls sample2
+   65  ls sample
+   66  ls
+   67  git log
+   68  mkdir directoryname
+   69  ls
+   70  cd directoryname
+   71  this is
+   72  cat>sample3
+   73  rm directoryname
+   74  git int
+   75  git init
+   76  git status
+   77  git and homepage.txt
+   78  git add homepage.txt
+   79  git status
+   80  cat>sample1
+   81  cat>sample4
+   82  cat>sample5
+   83  git status
+   84  git init
+   85  init
+   86  git init
+   87  cat>sample4
+   88  cat>sample5
+   89  git status
+   90  git add sample1
+   91  git status
+   92  git add directoryname,sample2,sample4,sample5
+   93  git status
+   94  git add directoryname
+   95  git add sample2 sample4 sample5
+   96  git status
+   97  cd directoryname
+   98  cat sample7
+   99  cat>sample9
+  100  cat status
+  101  git status
+  102  ls
+  103  git add sample3 sample9
+  104  git status
+  105  ls
+  106  cd directoryname
+  107  git init
+  108  rm directoryname
+  109  cd ..
+  110  ls
+  111  gitlog
+  112  hit log
+  113  git log
+  114  git commit -m
+  115  git commit -m
+  116  git commit -m"hytgy"
+  117  git log
+  118  cat>sample6
+  119  git add sample6
+  120  git commit -m"yf"
+  121  git log
+  122  pwd
+  123  mkdir git
+  124  cd git
+  125  cat>git one
+  126  cat>git one
+  127  mkdir git
+  128  cd git
+  129  cat>git one
+  130  cat git one
+  131  mkdir git
+  132  mkdir git
+  133  cd git
+  134  cat>git one
+  135  cat>gitone
+  136  mkdir git
+  137  cd git
+  138  cat>gitone
+  139  cat>gitlab_14feb
+  140  mkdir gitlab_14feb
+  141  mkdir gitlab_14feb
+  142  cd gitlab_14feb
+  143  mkdir task1.1
+  144  mkdir task1
+  145  cat>apple1
+  146  cat>apple2
+  147  cat>apple3
+  148  cat>tyui
+  149  git add apple1 apple2 apple3 apple4
+  150  git commit -m'commit four files'
+  151  git add apple1
+  152  git commit -m'ghj'
+  153  git add apple2
+  154  git commit -m'ghj'
+  155  git add apple3
+  156  git commit -m'ghj'
+  157  git add apple4
+  158  git commit -m'ghj'
+  159  mkdir task1
+  160  cd task1
+  161  cat>apple1
+  162  cat>apple2
+  163  cat>apple3
+  164  cat>apple3
+  165  cat>apple4
+  166  git add apple1
+  167  git commit -m'sdf'
+  168  git add apple2
+  169  git commit -m'sdf'
+  170  git add apple3
+  171  git commit -m'sdf'
+  172  git add apple4
+  173  mkdir 1.1
+  174  cd 1.1
+  175  cat>class1
+  176  cat>class2
+  177  git add class1
+  178  git commit -m'hyu'
+  179  git add class2
+  180  git commit -m'hyu'
+  181  pwd
+  182  cd ..
+  183  mkdir 2listfeb
+  184  cd 2listfeb
+  185  git status
+  186  git init
+  187  vi hello.c
+  188  pwd
+  189  cd ..
+  190  mkdir 21feb
+  191  cd 21feb
+  192  cd ..
+  193  git status
+  194  git init
+  195  vi hello.txt
+  196  pwd
+  197  cd ..
+  198  mkdir 21feb
+  199  cd ..
+  200  mkdir 21feb
+  201  cd 21feb
+  202  git status
+  203  git init
+  204  vi hello.txt
+  205  pwd
+  206  cd ..
+  207  mkdir 21feb
+  208  cd ..
+  209  mkdir 21feb
+  210  cd 21feb
+  211  git status
+  212  git init
+  213  vi hello.txt
+  214  cat hello.txt
+  215  vi hello.c
+  216  git status
+  217  git add
+  218  git add .
+  219  git status
+  220  git commit -m "fisrt commit"
+  221  git log
+  222  cat hello.c
+  223  git checkoutdev1
+  224  git checkout dev1
+  225  git checkout dev
+  226  git branch dev
+  227  git  checkout dev
+  228  cat hello.c
+  229  cat hello.txtr
+  230  cat hello.txt
+  231  git checkout main
+  232  git checkout master
+  233  vi ..gitgnore
+  234  ls
+  235  git add ..gitgnore
+  236  git commit -"bhn"
+  237  ls -ah
+  238  cat .gitgnore
+  239  vi .ignore
+  240  vi hello.py
+  241  git init
+  242  git status
+  243  git add .gitignore
+  244  git status
+  245  cd ..
+  246  cd ..
+  247  cd 23 feb
+  248  init
+  249  cd ..
+  250  cdv..
+  251  git init
+  252  cd ..
+  253  cd ..
+  254  cd 23feb
+  255  mkdir 23feb
+  256  mkdir 23 feb
+  257  cd 
+  258  cat>hello
+  259  pwd
+  260  cd ..
+  261  cd ..
+  262  mkdir clone1
+  263  cd
+  264  git status
+  265  mkdir clone2
+  266  cd clone2
+  267  pwd
+  268  git status
+  269  git init
+  270  git branch 
+  271  git branch dev1
+  272  mkdir clonenew
+  273  mkdir clone
+  274  cd
+  275  pwd
+  276  git init
+  277  mkdir assess_<0014>
+  278  cd
+  279  pwd
+  280  mkdir sub_1
+  281  mkdir sub_2
+  282  cat>>.gitignore
+  283  ls
+  284  git clear
+  285  clear
+  286  pwd
+  287  mkdir assess_<0014>
+  288  cd assess_<0014>
+  289  mkdir sub_1
+  290  vi .gitignore
+  291  pwd
+  292  mkdir assess_<0014>
+  293  mkdir sub_1
+  294  pwd
+  295  mkdir assess_<0014>
+  296  cd assess_<0014>
+  297  mkdir sub_1
+  298  git init
+  299  git status
+  300  git add.
+  301  git commit -m"git ignore commited"
+  302  cat>.txt
+  303  cat>.c
+  304  cat>.html
+  305  git add .
+  306  git branch master
+  307  git branch main
+  308  git branch -b main
+  309  git commit -m"commit all three file"
+  310  git status
+  311  git status
+  312  pwd
+  313  mkdir_assess<0014>
+  314  cd assess<0014>
+  315  mkdir sub_1
+  316  mkdir sub_2
+  317  cat>.gitignore
+  318  git  init
+  319  cat>.txt
+  320  cat>.c
+  321  cat.html
+  322  cat>.html
+  323  git add.
+  324  git add.
+  325  git add .html .txt .c
+  326  git commit -m"commit all file"
+  327  git remote add origin https://github.com/mongaagm/monga.git
+  328  git remote add origin https://github.com/mongaagm/monga.git
+  329  git push origin agm
+  330  git push monga
+  331  git remote add origin git@github.com:mongaagm/monga.git
+  332  git push origin intern-1
+  333  git push origin intern-1 --force
+  334  git remote add origin git@github.com:mongaagm/repo.git
+  335  git push intern-1 --force
+  336  git branch master
+  337  git init
+  338  cd ..
+  339  cd ..
+  340  mkdir assessss_0014
+  341  pwd
+  342  mkdir sub_1
+  343  mkdir _sub2
+  344  cd ..
+  345  cd ..
+  346  pwd
+  347  cd ..
+  348  cd ..
+  349  clear
+  350  mkdir assess_0014
+  351  git init
+  352  cd assess_0015
+  353  cd assess_0014
+  354  clear
+  355  git init
+  356  mkdir sub_1
+  357  git add .
+  358  mkdir sub_2
+  359  git add .
+  360  vi .gitignore
+  361  git add .
+  362  vi hello.c
+  363  vi hello.html
+  364  vi hello.txt
+  365  git add .
+  366  git commit -m "First commit"
+  367  vi hello.html
+  368  git add hello.html
+  369  git commit -m "Second commit"
+  370  git add hello.c
+  371  vi hello.c
+  372  git add hello.c
+  373  git commit -m "Third commit"
+  374  git log --oneline
+  375  cd sub_1
+  376  vi hello.txt
+  377  cd ..
+  378  cp -r * sub_1/
+  379  cp -r * sub_2/
+  380  cd sub-1
+  381  cd sub_1
+  382  vi hello.txt
+  383  git add -f hello.txt
+  384  git commit -m "Fourth commit"
+  385  cd ..
+  386  cd sub_2
+  387  touch image
+  388  cp "C:\Users\Dell\OneDrive\Pictures\Screenshots\Screenshot 2024-03-06 123044.png" "/c/assess_0014/sub_2/image"
+  389  cd ..
+  390  cd sub_1
+  391  history >>hello.txt
